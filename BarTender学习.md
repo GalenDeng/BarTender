@@ -1,4 +1,5 @@
 ##  BarTender学习 (2018.07.24)
+* [BarTender 制作条形码的经典案例](http://www.bartender.cc/jingdiananli/)
 1. `去BarTender的官网下载使用版的BarTender`
 2. `完整安装BarTender`
 3. `在BarTender进行数据库设置导入的时候报office是32位的解决措施`
